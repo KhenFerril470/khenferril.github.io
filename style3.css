@@ -1,0 +1,15 @@
+body {
+  min-height: 3500px;
+}
+
+.navbar {
+  background-color: dimgray;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #7fff00;
+}
+
+#project {
+  background-color: #7fff00;
+}
